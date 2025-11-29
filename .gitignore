@@ -1,2 +1,5 @@
-# Fichero de entorno
+# Environment variables file
 .env
+
+# Output file
+research_output.txt
